@@ -51,16 +51,6 @@
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anagabi5676&show_icons=true&theme=rose_pine"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagabi5676&layout=compact&theme=rose_pine"/>
-
-</p>
-
 ---
 
 ## 💕 Atualmente
