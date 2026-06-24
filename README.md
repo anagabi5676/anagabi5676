@@ -1,22 +1,24 @@
 <div align="center">
 
-# 🌸 Ana Gabriela 🌸
-
-### ✨ Estudante de Sistemas de Informação
-
-### 💻 Java • Spring Boot • SQL
-
-### 🦋 Transformando ideias em código
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=3000&pause=1000&color=FF7EB6&center=true&vCenter=true&width=700&lines=🌸+Ana+Gabriela;✨+Estudante+de+Sistemas+de+Informação;🦋+Java+•+Spring+Boot+•+SQL;💖+Transformando+ideias+em+código" />
 
 </div>
 
 ---
 
-## 🌷 Sobre mim
+<div align="center">
 
-🎓 Estudante de Sistemas de Informação na UNIBAVE
+🌷 ✨ 🦋 ✨ 🌷
 
-🦋 Participante do projeto Mulheres em Código
+</div>
+
+# 🌸 Sobre mim
+
+🎓 Estudante de Sistemas de Informação na **UNIBAVE**
+
+🦋 Participante do projeto **Mulheres em Código**
+
+💻 Aprendendo Java, Spring Boot e Banco de Dados
 
 🌱 Sempre aprendendo algo novo
 
@@ -26,23 +28,23 @@
 
 ---
 
-## 🌸 Tecnologias
+# 🌷 Tecnologias
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,vscode,idea" />
 
-</p>
+</div>
 
 ---
 
-## ✨ Atualmente
+# ✨ Atualmente
 
 📚 Aprendendo Java e Spring Boot
 
 💻 Desenvolvendo projetos acadêmicos
 
-🔎 Explorando novas tecnologias
+🔍 Explorando novas tecnologias
 
 🩷 Construindo meu portfólio
 
@@ -50,30 +52,45 @@
 
 ---
 
-## 📊 GitHub
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anagabi5676&show_icons=true&theme=rose_pine"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagabi5676&layout=compact&theme=rose_pine"/>
 
-</p>
+</div>
 
 ---
 
-## 💌 Contato
+# 🌸 Um pouquinho sobre mim
 
-📧 [anagabi5676@gmail.com](mailto:anagabi5676@gmail.com)
+🌷 Amo aprender coisas novas
 
-🌷 Orleans - SC
+🦋 Gosto de unir criatividade e tecnologia
 
-> ✨ Pequenos passos todos os dias também levam a grandes conquistas.
+✨ Acredito que pequenos passos constroem grandes conquistas
+
+💻 Estou construindo minha trajetória na programação
+
+💖 Sempre aberta a novos desafios
+
+---
+
+# 💌 Contato
+
+📧 **anagabi5676@gmail.com**
+
+🌸 Orleans - SC
+
+---
 
 <div align="center">
 
-🌸 🦋 🌷 ✨ 💖
+> ✨ *"Pequenos passos todos os dias também levam a grandes conquistas."* ✨
+
+🦋 🌸 💖 🌷 ✨
 
 </div>
-
 
