@@ -20,7 +20,7 @@
 
 # 🌸 Bem-vindo(a) ao meu cantinho 🌸
 
-💖 Sou Ana Gabriela, estudante de Sistemas de Informação apaixonada por tecnologia, criatividade e aprendizado constante.
+💖 Sou Ana Gabriela, estudante de Sistemas de Informação.
 
 🦋 Estou construindo minha jornada na programação, explorando novas tecnologias e transformando ideias em projetos.
 
